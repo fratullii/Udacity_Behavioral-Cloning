@@ -38,9 +38,4 @@ The script used a python generator for training. It allows to retain in memory (
 
 ### Result
 
-The video below shows the front camera of the car, driving in the road and never leaving the track.
-
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
-
+The file ```video.mp4``` shows the front camera of the car, driving in the road and never leaving the track.
